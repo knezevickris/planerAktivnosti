@@ -1,1 +1,2 @@
 # planerAktivnosti
+WPF aplikacija daje prikaz aktivnosti i obaveza koje se nalaze u bazi podataka. Moguce je filtriranje prikaza zavrsenih i nezavrsenih aktivnosti i dodavanje nove aktivnosti putem adekvatnih button-a. Desnim klikom na pojedinacnu aktivnost moguce je obrisati aktivnost iz aplikacije i istovremeno iz baze podataka. Lijevim klikom na bilo koju aktivnost dobija se prozor za izmjenu informacija i statusa izabrane aktivnosti.
